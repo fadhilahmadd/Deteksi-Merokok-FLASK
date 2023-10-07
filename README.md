@@ -1,2 +1,2 @@
 # Deteksi-Merokok-FLASK
-![alt text](https://github.com/fadhilahmadd/img/blob/main/image1.png?raw=true)
+<img src="https://github.com/fadhilahmadd/img/blob/main/image1.png" width="20%"></img>
